@@ -1,0 +1,7 @@
+spring:
+  datasource:    url: jdbc:postgresql://192.168.99.100:5432/reservation_app 
+    username: postgres
+    password: 123456        driver-class-name: org.postgresql.Driver
+  jpa:    hibernate:      ddl-auto: create-drop
+      generate-ddl: true
+    show-sql: true    

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: reservation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jburgos
+Implementation-Vendor-Id: cl.jb
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/reservation
+Created-By: Maven Integration for Eclipse
+
